@@ -25,3 +25,5 @@ bool toggleModes[] = {true, false}; // Toggle modes (switch 1: toggle, switch 2:
 const byte ccNumbers[8] = {12, 84, 91, 88, 30, 31, 32, 33}; CC number for each pot
 const byte channels[8] = {6, 6, 0, 12, 4, 4, 4, 4}; CC channel for each pot. This should be -1 (0 for channel 1).
 const char* potNames[8] = {"PICH", "GAIN", "CLIK", "+DRY", "CUT", "ENV", "OSC", "AIR"}; 4-letter names to be displayed on the display.
+
+https://www.instagram.com/p/DFeroCWTARv/?img_index=1
